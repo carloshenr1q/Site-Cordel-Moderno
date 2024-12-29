@@ -91,7 +91,14 @@ main .transparente p{
     background-color: var(--transparente);
     
     width: 42.5vw;
-    max-width: 43.5vw;
+}
+main .transparente2 p{
+    color: var(--color2);
+    text-indent: 5px;
+
+    background-color: var(--transparente);
+    
+    width: 43.5vw;
 }
 
 
