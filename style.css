@@ -91,6 +91,7 @@ main .transparente p{
     background-color: var(--transparente);
     
     width: 42.5vw;
+    max-width: 43.5vw;
 }
 
 
